@@ -2,7 +2,7 @@
 1. Changing working directory:
   ```python
   import os
-  os.chdir("drive/app")
+  os.chdir("[directory path]")
   ```
 or simply use
   ```
