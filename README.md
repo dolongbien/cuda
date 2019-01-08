@@ -1,2 +1,3 @@
 # cuda
-CUDA 9.2 and Caffe/Caffe2 installation Ubuntu 16.04
+C3D feature extractor.
+CUDA and Caffe/Caffe2 installation Ubuntu 16.04 & 18.04
